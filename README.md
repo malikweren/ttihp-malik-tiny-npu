@@ -4,6 +4,9 @@
 
 - [Read the documentation for project](docs/info.md)
 
+<img width="1109" height="837" alt="image" src="https://github.com/user-attachments/assets/3683f154-6ab7-4677-8985-d031d1d471cd" />
+
+
 ## What is Tiny Tapeout?
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
